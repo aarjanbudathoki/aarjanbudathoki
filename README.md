@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aarjanbudathoki
-- 👀 I’m interested in coding
+- 👀 I’m little interested in coding
 - 🌱 I’m currently learning c programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aarjanbudathoki222@gmail.com
